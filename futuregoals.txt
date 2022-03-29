@@ -2,6 +2,8 @@
 - Rajin Shalat tepat waktu
 - Bisa mengendalikan amarah 
 - Mempunyai tabungan yang cukup
+* Minimal 300 juta 
 - Bisa menjadi back end yang handal
-- Bisa menjadi pembalap no 1 250cc
+* Minimal membuat database
+- Bisa menjadi pembalap 250cc
 - Mempunyai brand fashion sendiri 
